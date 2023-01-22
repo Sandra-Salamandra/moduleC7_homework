@@ -1,7 +1,7 @@
 {
   "name": "moduleC7_homework",
   "version": "1.0.0",
-  "description": "Test moduleC7_homework",
+  "description": "Test jest moduleC7_homework",
   "main": "index.js",
   "scripts": {
     "test": "jest"
